@@ -1,7 +1,7 @@
 # Proyecto: Simulación y Mitigación de SQL Injection (SQLi)
 
-**Institución:** Universidad Estatal de Milenio (UNEMI)
-**Asignatura:** [SEGURIDAD INFORMATICA]
+**Institución:** Universidad Estatal de Milagro (UNEMI)
+**Asignatura:** SEGURIDAD INFORMATICA
 **Año:** 2026
 
 ## Descripción del Proyecto
